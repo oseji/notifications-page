@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-slate-500;
+  @apply bg-slate-500 font-jakarta;
 }
 span {
   @apply font-bold cursor-pointer hover:text-blue-800 transition ease-in duration-200;
